@@ -1,3 +1,3 @@
 # kullmanp.github.io
 
-See <kup.ch>.
+See https://kup.ch.
